@@ -1,0 +1,3 @@
+Models are stored in the google drive folder due to the uploading limitation of GitHub.
+
+https://drive.google.com/drive/folders/10In7hwKB2-pfhjohO-6onhtvINi6dg1-?usp=sharing
